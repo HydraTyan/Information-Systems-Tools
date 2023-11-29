@@ -1,5 +1,5 @@
 # Information-Systems-Tools
-**Dance with death in my dreams**
+**Dance with dead in my dreams**
 
 ## Лаба №1
 
