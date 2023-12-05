@@ -1,5 +1,5 @@
 # Information-Systems-Tools
-**Это моя лаба. Я здесь тестирую, я тут Big Boss**
+**Dance with dead in my dreams**
 
 ## Лаба №1
 
